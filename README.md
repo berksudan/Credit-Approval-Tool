@@ -26,17 +26,17 @@ Dataset concerns credit card applications.  All attribute names and values have 
     - A16: +,-         **(class attribute)**
 
 - Missing Attribute Values: 37 cases (5%) have one or more missing values.  The missing values from particular attributes are:
-	-     A1:  12
-	-     A2:  12
-	-     A4:   6
-	-     A5:   6
-	-     A6:   9
-	-     A7:   9
-	-     A14: 13
+	- A1: 12
+	- A2: 12
+	- A4: 6
+	- A5: 6
+	- A6: 9
+	- A7: 9
+	- A14: 13
 
 - Class Distribution: 
 	- +: 307 (44.5%)
-	-     -: 383 (55.5%)
+	- -: 383 (55.5%)
 
 ## Resources
 - https://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.names
