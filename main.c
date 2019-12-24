@@ -4,18 +4,18 @@
  Author      : Berk Sudan
  Version     :
  Copyright   : This project belongs to the YILDIZ Technical University.
- Description : Hello World in C, Ansi-style
+ Description : Credit-Approval-Tool in C, Ansi-style
  ============================================================================
  */
 #define INPUT_DATASET_NAME "input_randomized.csv"
-#define NUM_OF_INST			407
+#define NUM_OF_INST		407
 #define NUM_OF_ATTRS		16
 #define MAX_VALUE_SIZE		9
 #define EXIT_SUCCESS 		0
-#define EXIT_FAIL 			-1
-#define ABS(N) 				(((N)<0)?(-(N)):(N))
-#define MIN(X, Y) 			(((X) < (Y)) ? (X) : (Y))
-#define MAX(X, Y) 			(((X) > (Y)) ? (X) : (Y))
+#define EXIT_FAIL 		-1
+#define ABS(N) 			(((N)<0)?(-(N)):(N))
+#define MIN(X, Y) 		(((X) < (Y)) ? (X) : (Y))
+#define MAX(X, Y) 		(((X) > (Y)) ? (X) : (Y))
 #define NOM_DIST_COEFF 		300
 
 #include <stdio.h>
