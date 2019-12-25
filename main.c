@@ -1,9 +1,9 @@
 /*
  ============================================================================
- Name        : DataMiningProject.c
+ Name        : Credit-Approval-Tool
  Author      : Berk Sudan
- Version     :
- Copyright   : This project belongs to the YILDIZ Technical University.
+ Version     : 1.2
+ Copyright   : No copyright, free to use, free to distribute.
  Description : Credit-Approval-Tool in C, Ansi-style
  ============================================================================
  */
