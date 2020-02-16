@@ -38,7 +38,7 @@ Dataset concerns credit card applications.  All attribute names and values have 
 	- +: 307 (44.5%)
 	- -: 383 (55.5%)
 
-## Resources
+## Dataset Resources
 - https://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.names
 - https://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.data
 
